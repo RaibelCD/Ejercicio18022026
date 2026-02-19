@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejercicios IF, else y Switch/1.0.0": {
+        "runtime": {
+          "Ejercicios IF, else y Switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios IF, else y Switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

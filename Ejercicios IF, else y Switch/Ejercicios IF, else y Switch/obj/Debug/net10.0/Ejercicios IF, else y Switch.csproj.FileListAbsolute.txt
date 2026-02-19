@@ -1,0 +1,14 @@
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\bin\Debug\net10.0\Ejercicios IF, else y Switch.exe
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\bin\Debug\net10.0\Ejercicios IF, else y Switch.deps.json
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\bin\Debug\net10.0\Ejercicios IF, else y Switch.runtimeconfig.json
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\bin\Debug\net10.0\Ejercicios IF, else y Switch.dll
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\bin\Debug\net10.0\Ejercicios IF, else y Switch.pdb
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.AssemblyInfoInputs.cache
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.AssemblyInfo.cs
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.csproj.CoreCompileInputs.cache
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.dll
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\refint\Ejercicios IF, else y Switch.dll
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.pdb
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\Ejercicios IF, else y Switch.genruntimeconfig.cache
+F:\Visual Studio Community\Proyecto\Ejercicios IF, else y Switch\Ejercicios IF, else y Switch\obj\Debug\net10.0\ref\Ejercicios IF, else y Switch.dll
